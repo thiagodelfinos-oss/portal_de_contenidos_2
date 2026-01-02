@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EduStream Pro - Interactive Learning Platform",
+  "description": "A world-class interactive learning platform featuring class portals, AI-powered tutoring, interactive quizzes, and multimedia content management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
